@@ -1,0 +1,13 @@
+#infoProfile {
+    margin-top: -5%;
+}
+
+.active {
+    color: red;
+}
+
+#numbers {
+    font-family: bebas-neue;
+    font-size: 50px;
+    color: #E50914;
+}

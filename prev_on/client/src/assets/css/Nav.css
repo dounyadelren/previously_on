@@ -1,0 +1,9 @@
+#title_nav {
+    font-family: bebas-neue;
+}
+.item_nav{
+    margin-left: 1.5rem;
+}
+.item_nav:hover {
+    color: grey;
+}
