@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
     function handleClick(url) {
-        window.location.href = "#";
+        window.location.href = "https://github.com/dounyadelren/previously_on";
     }
     return (
         <>
